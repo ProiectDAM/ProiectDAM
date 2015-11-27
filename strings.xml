@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Scoala Auto</string>
+    <string name="Button1_Menu">Chestionare</string>
+    <string name="Button2_Menu">Legislație</string>
+    <string name="Button3_Menu">Indicatoare</string>
+</resources>
